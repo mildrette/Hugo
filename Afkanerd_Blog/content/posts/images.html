@@ -1,0 +1,12 @@
+---
+title: "Images"
+date: 2023-01-24T13:35:00+01:00
+draft: true
+---
+
+
+{{ $asset := resources.Get "/image.png" }}
+{{ $img := $asset.Fit "600x400" }}
+<figure class="image is-3by2">
+  <img alt="Afkanerd's logo" src="{{ $img.RelPermalink }}" />
+</figure>
