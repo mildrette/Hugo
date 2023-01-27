@@ -1,0 +1,3 @@
+[submodule "Afkanerd_Blog/mildrette.github.io"]
+	path = Afkanerd_Blog/mildrette.github.io
+	url = git@github.com:mildrette/mildrette.github.io.git

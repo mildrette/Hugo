@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Afkanerd Blog</title>
+    <link>http://mildrette.github.io/</link>
+    <description>Recent content on Afkanerd Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 27 Jan 2023 21:26:39 +0100</lastBuildDate><atom:link href="http://mildrette.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>About</title>
+      <link>http://mildrette.github.io/posts/about/</link>
+      <pubDate>Fri, 27 Jan 2023 21:26:39 +0100</pubDate>
+      
+      <guid>http://mildrette.github.io/posts/about/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
