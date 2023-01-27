@@ -1,4 +1,0 @@
-baseURL = 'http://mildrette.github.io/'
-languageCode = 'en-us'
-title = 'My Blog Site'
-theme = 'hugo-theme-fuji'
