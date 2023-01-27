@@ -1,5 +1,4 @@
-baseURL = 'http://example.org/'
+baseURL = 'http://mildrette.github.io/'
 languageCode = 'en-us'
-title = 'Afkanerd Post'
-theme = 'fuji'
-
+title = 'My Blog Site'
+theme = 'hugo-theme-fuji'
